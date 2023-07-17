@@ -3,7 +3,7 @@ Projeto para facilitar a separação de resultados em pdf para impressão e envi
 
 Este projeto foi criado a partir da necessidade de facilitar a separação de resultados prontos para impressão e postagem aos clientes. 
 
-Este projeto inclui dois passos:
+Este projeto inclui alguns passos:
 
 1. O preenchimento da planilha com os dados do cliente e de seu médico, incluindo e-mail.
 2. A planilha contém codigo de VBA e a partir do número da ficha do cliente cria um e-mail automatico para a liberação dos médicos responsaveis pelo exame, após o envio do e-mail coloca um OK na coluna "E-mail enviado".
