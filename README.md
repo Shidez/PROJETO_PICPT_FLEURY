@@ -1,5 +1,5 @@
 # PROJETO_POSTAL_PDF
-Projeto para facilitar a separação de resultados em pdf para impressão e envio ao cliente
+Programa para facilitar a separação de resultados em pdf para impressão e envio ao cliente
 
 Este projeto foi criado a partir da necessidade de facilitar a separação de resultados prontos para impressão e postagem aos clientes. 
 
