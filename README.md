@@ -12,6 +12,6 @@ Este projeto inclui alguns passos:
 5. O programa com python, lê a planilha "CONTROLE DE ENVIO 2023 EXAME_X" nos campos: Email enviado, Postal e Postal enviado para fazer uma cópia do resultado em pdf em outra pasta para facilitar a triagem e impressão dos resultados.
 6. Se as colunas "Email enviado" e "Postal" estiverem preenchidas e a coluna de "Postal enviado", estiver vazia, o programa separa o resultado do cliente com o número da ficha (ex.: 123.pdf) e coloca um "OK" na coluna de Postal enviado para não separar o resultado novamente.
 
-Com isto, otimizamos o tempo e garatimos a separação correta dos pdfs, amenizando erros humanos. 
+Com isto, otimizei o tempo e garanti a separação correta dos pdfs, amenizando erros humanos. 
 
 
